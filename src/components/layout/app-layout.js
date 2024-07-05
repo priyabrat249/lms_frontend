@@ -8,14 +8,14 @@ import {
     Typography,
     Menu,
     Container,
-    Avatar,
+
     Button,
     Tooltip,
     MenuItem,
 } from "@mui/material"
 import { useUser } from "../../context/user-context"
 import { Route, Routes, Navigate, Link } from "react-router-dom"
-import AdbIcon from "@mui/icons-material/Adb"
+
 import ImportContactsIcon from '@mui/icons-material/ImportContacts';
 import logo from '../../lions_logo.png'
 // lions_logo.jpg'
